@@ -1,11 +1,9 @@
 def my_hash
-  my_hash = {
-    "genius" => "Rick"
-    "grandson" => "Morty"
-    "pass_butter" => "butterbot"
+  rick_and_morty = {
+    "genius" => "Rick",
+    "grandson" => "Morty",
+    "idiot" => "Jerry"
   }
-
-
 end
 
 
